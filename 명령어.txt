@@ -1,0 +1,5 @@
+pip install asyncio lxml google-generativeai
+
+
+pip install dc_api filetype
+
